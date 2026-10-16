@@ -1,0 +1,6 @@
+{
+  "name": "Noor Quran Academy",
+  "description": "Online Quranic institute offering one-on-one Tajweed phonetics, Sanad Hifz memorization, and classical Arabic instruction with certified scholars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Noor Quran Academy",
+  "short_name": "Noor Quran",
+  "description": "Online Quranic institute offering one-on-one Tajweed phonetics, Sanad Hifz memorization, and classical Arabic instruction with certified scholars.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF9F5",
+  "theme_color": "#052219",
+  "icons": [
+    {
+      "src": "/noor-logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/noor-logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
